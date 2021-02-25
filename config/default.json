@@ -1,0 +1,9 @@
+{
+    "api": {
+        "port": 3006
+    },
+    "auth": {
+        "privateKey": "7rnHnB0lb2s6x0HJ1q4fSnJzy7YMV160IVKR9G9ZCbV4B/3MHXAI9wZ87Q8N/RM/iJyk2ednQFisOLRvNHC87tc7xgqblfqtbu6trzMH5QoHKKN/iWx7pGyN1Wag+pB4mBjkLaoB6fh6c/TnVBKaj7z536Hen+Q+o1fSiDDuPsQBUjYaLy6KLBR1egi39uLBRMs61wTVH6PNWmrvfmpI638fUb3wtEcNKquHweV9Xlqcp07puJf+SVOGq2Is8C35YAKyNpiSmgH4Z0NzNOIkysPAQWTcIXXG3xu0LQFHEvGPXY+//GLy5wdwSHNvfWuIJTkOkg9GltRio003FX0jug==",
+        "expiresIn": 900
+    }
+}
