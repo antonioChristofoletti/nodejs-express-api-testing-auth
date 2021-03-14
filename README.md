@@ -2,9 +2,8 @@
 
 Creating an API with node.js.
 
-There are a lot of points in which It can be improved.
+There are a lot of points in which It can be improved. The following contents are not cool stuff to do, but I did, because I was just practing:
 
-The following contents are not cool stuff to do, but I did, because I was just practing:
 - The raw Datatabase queries;
 - Push sensible files, such as, database, keyhash and config files;
 - Other details through the code.
@@ -15,15 +14,15 @@ Small project to practice technologies and libraries related with node.js
 
 ## Used Technologies
 
-- Node.js
-  - express;
-  - bcrypt;
-  - body-parser;
-  - config;
-  - jsonwebtoken;
-  - passport-http-bearer;
-  - redis;
-  - sqlite3.
+- [Node.js](https://nodejs.org/)
+  - [express](https://expressjs.com/pt-br/);
+  - [bcrypt](https://www.npmjs.com/package/bcryptjs);
+  - [body-parser](https://www.npmjs.com/package/body-parser);
+  - [config](https://www.npmjs.com/package/config);
+  - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken);
+  - [passport-http-bearer](https://www.npmjs.com/package/passport-http-bearer);
+  - [redis](https://www.npmjs.com/package/redis);
+  - [sqlite3](https://www.npmjs.com/package/sqlite3).
 
 ## Setup
 
