@@ -27,13 +27,13 @@ Small project to practice technologies and libraries related with node.js
 
 ## Setup
 
-It is just necessary run the `npm start´.
+It is just necessary run the `npm start`.
 
 ## Features
 
 - Authentication by JWT;
-- Canceling token by redis blocklist;
-- Application divided by responsabilities;
+- Canceling token by redis blacklist;
+- Application divided by responsibilities; 
 - Database access.
 
 ## Status
